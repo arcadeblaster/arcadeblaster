@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arcadeblaster
-- 👀 I’m interested in arcade games
+- 👀 I’m interested in APIs
 - 🌱 I’m currently learning API development
-- ⚡ Fun fact: I played a 3DO before
+- ⚡ Fun fact: I like collecting wood
 
 <!---
 arcadeblaster/arcadeblaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
